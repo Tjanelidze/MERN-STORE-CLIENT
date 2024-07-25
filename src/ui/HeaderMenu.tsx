@@ -14,5 +14,10 @@ export default function HeaderMenu() {
 
 const StyledHeaderMenu = styled.ul`
   display: flex;
-  gap: 0.4rem;
+  gap: 5rem;
+
+  & > li {
+    cursor: pointer;
+    font-weight: 600;
+  }
 `;

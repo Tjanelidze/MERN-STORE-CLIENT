@@ -17,6 +17,7 @@ body {
   font-family: "Montserrat", sans-serif;
   min-height: 100vh;
   line-height: 1.5;
+  color: #22223b;
   font-size: 1.6rem;
 }
 
